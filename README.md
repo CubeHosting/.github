@@ -1,6 +1,5 @@
-# .github
+# 🌐 Welcome to CubeHosting
 
-🌐 Welcome to CubeHosting
 CubeHosting is a modern and user-friendly hosting platform designed to simplify web hosting for everyone — from beginners to advanced developers.
 
 We offer a reliable and scalable hosting environment with intuitive tools, fast servers, and a clean interface to get your projects online in no time. Whether you're launching your first website or managing complex applications, CubeHosting gives you full control with ease.
